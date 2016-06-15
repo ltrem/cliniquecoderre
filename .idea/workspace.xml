@@ -2,99 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb2437d-9a56-4800-a4de-b19041aa9db4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/30/6f/916f30" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cliniquecoderre.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\05\5b5b435d53796d666f6e795c42756e646c655c5477696742756e646c655c436f6e74726f6c6c65725c457863657074696f6e436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\27\5b5b435d53796d666f6e795c42756e646c655c5477696742756e646c655c436f6e74726f6c6c65725c457863657074696f6e436f6e74726f6c6c65722373686f77416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\54\5b53796d666f6e795c42756e646c655c5477696742756e646c655c436f6e74726f6c6c65725c457863657074696f6e436f6e74726f6c6c65722373686f77416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\8d\5b53796d666f6e795c42756e646c655c5477696742756e646c655c436f6e74726f6c6c65725c457863657074696f6e436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\profiler\2f\0a\940a2f" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\profiler\3f\17\3d173f" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\profiler\8c\ef\98ef8c" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\profiler\f7\96\9296f7" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\0f\0f1f8e5bd276f9802c2d5fb69918b94d3d5a51b14fc841ee91a44a537c914ffc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\11\11aaad59da04f6c88819f18c7dfd0973066c9c2649c748533d8639432cdd07c4.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\19\199af32bb7633d2d6d1a041cf9baa30bf2a84678d70915f948ef35c4e8683550.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\46\465fbb67bb44369bdf7dfdace6beacf70609a1f153f7284ba582c7df5086a34b.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\77\772984379aa0873487547f6995055316ebee8bbaed351648cf9223d4eab9f1cf.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\95\95f2d95604e81bb6b03e01c18f5d31a500154eee87640c72487b5a8a626504a7.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\96\96a2f112b3e3efebdc60fd748d93bc97f0039acd0d1d78303f427903ad43a62f.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\d5\d57d0602f7202cf41c887bb55c9f911557e526e654331670f6a2af9c71f7a324.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\e7\e718e8e30ac35d1c56eabbd0a2d8e31af3f98d0b47a9380fcaafa7f4a2c1973d.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\fe\feac5de0bbb80e3759eb373b1c4cb6d3e22da5eecf00be04818ea5055a2b4fb3.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/03/033f15a7c8c58d098742b7d6616bfe81045d2e5f7e6af20c5f9fd62b5773a834.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/03/033f15a7c8c58d098742b7d6616bfe81045d2e5f7e6af20c5f9fd62b5773a834.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/05/05b251423d847771f7cef8384a446ff152896a1b40649748575f67bbd60ce9b0.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/05/05b251423d847771f7cef8384a446ff152896a1b40649748575f67bbd60ce9b0.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/16/1629fd1c50b9a3044968db2790de5660e712597738ea7c9611080ec5d85cc6c2.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/16/1629fd1c50b9a3044968db2790de5660e712597738ea7c9611080ec5d85cc6c2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/1a/1a7ef6b923668f66a4076b01701da09f32425a0c0ffe6c7cd48055da46006ef6.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/1a/1a7ef6b923668f66a4076b01701da09f32425a0c0ffe6c7cd48055da46006ef6.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/3c/3ce707d267fbe6434df51846a4a842b405e129d3fb94823414ab28dd2bdf736d.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/3c/3ce707d267fbe6434df51846a4a842b405e129d3fb94823414ab28dd2bdf736d.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/3d/3d5d85a9652c3d9fa6edb63945e5019dcc469acbb13e076a92477792c0c3f0a0.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/3d/3d5d85a9652c3d9fa6edb63945e5019dcc469acbb13e076a92477792c0c3f0a0.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/40/405ed0b04f0148367fb67870a953167de1d111fdec7060b7607c609ec1f36fe8.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/40/405ed0b04f0148367fb67870a953167de1d111fdec7060b7607c609ec1f36fe8.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/44/44939c17a69ae106fbadc22b45709f8135a9f7bdbdc9ffa721c002292c7f77ad.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/44/44939c17a69ae106fbadc22b45709f8135a9f7bdbdc9ffa721c002292c7f77ad.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/4a/4af171a1c33e56844b56c2ab4a77fef3c89a864cd78df9b80f61957708819e35.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/4a/4af171a1c33e56844b56c2ab4a77fef3c89a864cd78df9b80f61957708819e35.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/52/523cebb15f5b0db20a6118fe844b260526fd593f8f47c0d75f5164a167c4b02f.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/52/523cebb15f5b0db20a6118fe844b260526fd593f8f47c0d75f5164a167c4b02f.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/56/56da4481a77496ba34392c0b648f613131b75bf46a78d5fa1acde7533322aac8.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/56/56da4481a77496ba34392c0b648f613131b75bf46a78d5fa1acde7533322aac8.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/00/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c657223696e646578416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/00/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c657223696e646578416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/95/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/95/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/8d/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223616464466c617368405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/8d/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223616464466c617368405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/b0/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/b0/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/a5/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d4275696c646572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/a5/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d4275696c646572405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/8c/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223666f7277617264405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/8c/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223666f7277617264405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/c7/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367656e657261746555726c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/c7/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367656e657261746555726c405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/b8/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/b8/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/fe/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574446f637472696e65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/fe/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574446f637472696e65405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/22/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574506172616d65746572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/22/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574506172616d65746572405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/34/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367657455736572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/34/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367657455736572405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/35/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223686173405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/35/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223686173405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/71/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223697343737266546f6b656e56616c6964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/71/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223697343737266546f6b656e56616c6964405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/40/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722369734772616e746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/40/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722369734772616e746564405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/7d/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236a736f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/7d/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236a736f6e405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/85/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/85/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/4a/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374546f526f757465405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/4a/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374546f526f757465405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/87/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e646572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/87/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e646572405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/14/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e64657256696577405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/14/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e64657256696577405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/b0/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223736574436f6e7461696e6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/b0/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223736574436f6e7461696e6572405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/96/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722373747265616d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/96/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722373747265616d405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/84/5b5b435d53796d666f6e795c42756e646c655c57656250726f66696c657242756e646c655c436f6e74726f6c6c65725c50726f66696c6572436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/84/5b5b435d53796d666f6e795c42756e646c655c57656250726f66696c657242756e646c655c436f6e74726f6c6c65725c50726f66696c6572436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/65/65979af18f5ecff2332e21448e21177f532fd85e53feb310e53722020bcc6d00.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/65/65979af18f5ecff2332e21448e21177f532fd85e53feb310e53722020bcc6d00.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/72/7265ab1e49c3a0e081560812ab11b3f7cac7c7d7189f55d2410f3dcfb265dff0.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/72/7265ab1e49c3a0e081560812ab11b3f7cac7c7d7189f55d2410f3dcfb265dff0.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/87/87631a79f96134d8758da42f512f0121094ad1b88f51fefcc50620fb0398ee1b.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/87/87631a79f96134d8758da42f512f0121094ad1b88f51fefcc50620fb0398ee1b.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/94/9416a9e1baf4b28c5fa83b9aa47dbce30e1536dd0809b1c6b88cd4a54fb6693b.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/94/9416a9e1baf4b28c5fa83b9aa47dbce30e1536dd0809b1c6b88cd4a54fb6693b.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/55/_55b65ae7e00ea5d475dd22e9573e66380afa10b625cad5f8893b04ca915a1e08.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/55/_55b65ae7e00ea5d475dd22e9573e66380afa10b625cad5f8893b04ca915a1e08.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/59/_59a2167eed70d978859f0bb50a96062ddb7318612984776d6893de9acdb8ca98.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/59/_59a2167eed70d978859f0bb50a96062ddb7318612984776d6893de9acdb8ca98.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/9d/_9dab0014d6ba960880653dda874d7ce764d4822f0a7cd948610fe8dcf8516786.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/9d/_9dab0014d6ba960880653dda874d7ce764d4822f0a7cd948610fe8dcf8516786.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations/fd/_fddf29d35f1105c6f2ca6a9e5661f3552ed02f4b82a9ca9c50c608f1652c8776.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/annotations/fd/_fddf29d35f1105c6f2ca6a9e5661f3552ed02f4b82a9ca9c50c608f1652c8776.doctrinecache.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/a7/a7502474c3a5426ec88049a8b908c4d5d0876c63ca2a97b11404ddfa0b9a5636.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/a7/a7502474c3a5426ec88049a8b908c4d5d0876c63ca2a97b11404ddfa0b9a5636.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/ab/abc4c8c9c4c5fd6073d8ea68bac25e28425953878e7a2735b24d3cf76df4b853.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/ab/abc4c8c9c4c5fd6073d8ea68bac25e28425953878e7a2735b24d3cf76df4b853.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/ad/ad16a290f176cffcc8e67d56968fad83c258b9b49c36b6d44848e8d700613c4a.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/ad/ad16a290f176cffcc8e67d56968fad83c258b9b49c36b6d44848e8d700613c4a.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/ad/adedec94fa031348079669d576432f57e58bbf90a27f863cda1f492d60387adf.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/ad/adedec94fa031348079669d576432f57e58bbf90a27f863cda1f492d60387adf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/c7/c76aaafef82f319ec4f530bb3a90902c361604c613e053041d078e349afbe944.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/c7/c76aaafef82f319ec4f530bb3a90902c361604c613e053041d078e349afbe944.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/cc/ccd15b3f532ee4fab8465454855f8186ecfd7b57ca8852dd9f734020cf6b612d.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/cc/ccd15b3f532ee4fab8465454855f8186ecfd7b57ca8852dd9f734020cf6b612d.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/classes.php" afterPath="$PROJECT_DIR$/var/cache/dev/classes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/d1/d15dce7753f28a2a1d21ad177d954ab577cc95c9ecea845335a3ded8e8aab90e.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/d1/d15dce7753f28a2a1d21ad177d954ab577cc95c9ecea845335a3ded8e8aab90e.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/d1/d1a745f53b1d6975f97067638beb1296c7c3ccb56ace18daed47877a146ad219.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/d1/d1a745f53b1d6975f97067638beb1296c7c3ccb56ace18daed47877a146ad219.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/d4/d4a5b0a4c0c4707d54ed811c73122926db2667207ad250be13cb66f2130a6a43.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/d4/d4a5b0a4c0c4707d54ed811c73122926db2667207ad250be13cb66f2130a6a43.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/d8/d84d657b7f8b4e04a409ea0d71b79b7385f6d3a231ae109d486d4dfdfaf29be1.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/d8/d84d657b7f8b4e04a409ea0d71b79b7385f6d3a231ae109d486d4dfdfaf29be1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/d9/d930098e7e9ac95cfe72c1aa1e595bd1b7f9f7cf5c88005662106842b99b629a.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/d9/d930098e7e9ac95cfe72c1aa1e595bd1b7f9f7cf5c88005662106842b99b629a.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/e9/e9a6c9c3f96fed1b720b60b24a907702765f87d847dd2cafe38418ed4c5787d6.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/e9/e9a6c9c3f96fed1b720b60b24a907702765f87d847dd2cafe38418ed4c5787d6.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/f4/f40b950ea505e59b9956ce0e05490ca5f47d54a74bd14cfa7618639fbc58d3b0.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/f4/f40b950ea505e59b9956ce0e05490ca5f47d54a74bd14cfa7618639fbc58d3b0.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/f6/f6d986da71b6540c6053ab84cea6170648748f0deb4b9e95ae132bdd059321d2.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/f6/f6d986da71b6540c6053ab84cea6170648748f0deb4b9e95ae132bdd059321d2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/f9/f93751422164f7c632b53b36e2b89e21938f7bea4f160d869b1a29bef3746e86.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/f9/f93751422164f7c632b53b36e2b89e21938f7bea4f160d869b1a29bef3746e86.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/fb/fbf0211ab8e41bdb5223c174e0f7fff77517aa47a9b6b022e1986f32cdcb8aa9.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/fb/fbf0211ab8e41bdb5223c174e0f7fff77517aa47a9b6b022e1986f32cdcb8aa9.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/sessions/dev/sess_4q3hvpskcsna9nb6ltrpd5tqp6" afterPath="$PROJECT_DIR$/var/sessions/dev/sess_4q3hvpskcsna9nb6ltrpd5tqp6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cliniquecoderre.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -227,7 +136,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="var" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,40 +151,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cliniquecoderre" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cliniquecoderre" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -300,8 +175,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985657" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -309,7 +184,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
