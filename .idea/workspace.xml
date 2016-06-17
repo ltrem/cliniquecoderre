@@ -1,114 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeb2437d-9a56-4800-a4de-b19041aa9db4" name="Default" comment="- Commit from LTrem-PC to Git">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/User.php" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\00\5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c657223696e646578416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\06\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574506172616d65746572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\0b\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\0d\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367656e657261746555726c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\10\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\14\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e64657256696577405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\22\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574506172616d65746572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\2c\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236372656174654e6f74466f756e64457863657074696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\34\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367657455736572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\35\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223686173405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\40\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722369734772616e746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\47\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e64657256696577405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\4a\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374546f526f757465405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\53\5b41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\55\_55b65ae7e00ea5d475dd22e9573e66380afa10b625cad5f8893b04ca915a1e08.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\56\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223616464466c617368405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\59\_59a2167eed70d978859f0bb50a96062ddb7318612984776d6893de9acdb8ca98.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\5e\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236a736f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\6a\5b41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c657223696e646578416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\6b\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223686173405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\6f\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e646572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\71\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223697343737266546f6b656e56616c6964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\77\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722369734772616e746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\7d\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236a736f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\84\5b5b435d53796d666f6e795c42756e646c655c57656250726f66696c657242756e646c655c436f6e74726f6c6c65725c50726f66696c6572436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\85\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\87\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e646572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\8c\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223666f7277617264405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\8d\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223616464466c617368405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\95\5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\96\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722373747265616d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\99\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\9d\_9dab0014d6ba960880653dda874d7ce764d4822f0a7cd948610fe8dcf8516786.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\9f\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223697343737266546f6b656e56616c6964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\a5\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d4275696c646572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\a8\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223736574436f6e7461696e6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\af\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367657455736572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\b0\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\b0\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223736574436f6e7461696e6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\b1\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722364656e79416363657373556e6c6573734772616e746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\b8\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\c6\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722373747265616d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\c7\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367656e657261746555726c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\cd\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574446f637472696e65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\d3\_d3131f8de1c2d8255f59ccd7ceb5de5b7f1f8ad24af5e0a8d701df590a9155de.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\d9\5b53796d666f6e795c42756e646c655c57656250726f66696c657242756e646c655c436f6e74726f6c6c65725c50726f66696c6572436f6e74726f6c6c657223746f6f6c626172416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\dc\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d4275696c646572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\dd\5b53796d666f6e795c42756e646c655c57656250726f66696c657242756e646c655c436f6e74726f6c6c65725c50726f66696c6572436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\eb\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223666f7277617264405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\eb\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374546f526f757465405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\fd\_fddf29d35f1105c6f2ca6a9e5661f3552ed02f4b82a9ca9c50c608f1652c8776.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\annotations\fe\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574446f637472696e65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\appDevUrlGenerator.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\appDevUrlGenerator.php.meta" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\appDevUrlMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\appDevUrlMatcher.php.meta" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\classes.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\classes.php.meta" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\profiler\30\6f\916f30" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\profiler\index.csv" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\03\033f15a7c8c58d098742b7d6616bfe81045d2e5f7e6af20c5f9fd62b5773a834.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\05\05b251423d847771f7cef8384a446ff152896a1b40649748575f67bbd60ce9b0.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\16\1629fd1c50b9a3044968db2790de5660e712597738ea7c9611080ec5d85cc6c2.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\1a\1a7ef6b923668f66a4076b01701da09f32425a0c0ffe6c7cd48055da46006ef6.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\3c\3ce707d267fbe6434df51846a4a842b405e129d3fb94823414ab28dd2bdf736d.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\3d\3d5d85a9652c3d9fa6edb63945e5019dcc469acbb13e076a92477792c0c3f0a0.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\40\405ed0b04f0148367fb67870a953167de1d111fdec7060b7607c609ec1f36fe8.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\44\44939c17a69ae106fbadc22b45709f8135a9f7bdbdc9ffa721c002292c7f77ad.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\4a\4af171a1c33e56844b56c2ab4a77fef3c89a864cd78df9b80f61957708819e35.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\52\523cebb15f5b0db20a6118fe844b260526fd593f8f47c0d75f5164a167c4b02f.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\56\56da4481a77496ba34392c0b648f613131b75bf46a78d5fa1acde7533322aac8.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\65\65979af18f5ecff2332e21448e21177f532fd85e53feb310e53722020bcc6d00.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\72\7265ab1e49c3a0e081560812ab11b3f7cac7c7d7189f55d2410f3dcfb265dff0.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\87\87631a79f96134d8758da42f512f0121094ad1b88f51fefcc50620fb0398ee1b.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\94\9416a9e1baf4b28c5fa83b9aa47dbce30e1536dd0809b1c6b88cd4a54fb6693b.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\a7\a7502474c3a5426ec88049a8b908c4d5d0876c63ca2a97b11404ddfa0b9a5636.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\ab\abc4c8c9c4c5fd6073d8ea68bac25e28425953878e7a2735b24d3cf76df4b853.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\ad\ad16a290f176cffcc8e67d56968fad83c258b9b49c36b6d44848e8d700613c4a.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\ad\adedec94fa031348079669d576432f57e58bbf90a27f863cda1f492d60387adf.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\c7\c76aaafef82f319ec4f530bb3a90902c361604c613e053041d078e349afbe944.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\cc\ccd15b3f532ee4fab8465454855f8186ecfd7b57ca8852dd9f734020cf6b612d.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\d1\d15dce7753f28a2a1d21ad177d954ab577cc95c9ecea845335a3ded8e8aab90e.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\d1\d1a745f53b1d6975f97067638beb1296c7c3ccb56ace18daed47877a146ad219.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\d4\d4a5b0a4c0c4707d54ed811c73122926db2667207ad250be13cb66f2130a6a43.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\d8\d84d657b7f8b4e04a409ea0d71b79b7385f6d3a231ae109d486d4dfdfaf29be1.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\d9\d930098e7e9ac95cfe72c1aa1e595bd1b7f9f7cf5c88005662106842b99b629a.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\e9\e9a6c9c3f96fed1b720b60b24a907702765f87d847dd2cafe38418ed4c5787d6.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\f4\f40b950ea505e59b9956ce0e05490ca5f47d54a74bd14cfa7618639fbc58d3b0.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\f6\f6d986da71b6540c6053ab84cea6170648748f0deb4b9e95ae132bdd059321d2.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\f9\f93751422164f7c632b53b36e2b89e21938f7bea4f160d869b1a29bef3746e86.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\projects\cliniquecoderre\var\cache\dev\twig\fb\fbf0211ab8e41bdb5223c174e0f7fff77517aa47a9b6b022e1986f32cdcb8aa9.php" afterPath="" />
+    <list default="true" id="aeb2437d-9a56-4800-a4de-b19041aa9db4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/bootstrap.php.cache" afterPath="$PROJECT_DIR$/var/bootstrap.php.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/classes.map" afterPath="$PROJECT_DIR$/var/cache/dev/classes.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/cliniquecoderre.iml" afterPath="$PROJECT_DIR$/.idea/cliniquecoderre.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/security.yml" afterPath="$PROJECT_DIR$/app/config/security.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cliniquecoderre.iws" />
@@ -134,11 +37,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23129252" vertical-offset="255" max-vertical-offset="1241">
+              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="323">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="323">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -154,12 +67,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="appDevDebugProjectContainer.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="appDevDebugProjectContainer.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3327787" vertical-offset="786" max-vertical-offset="52666">
-              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="803" max-vertical-offset="56134">
+              <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+              <folding>
+                <marker date="1466128900610" expanded="true" signature="266:182670" placeholder="..." />
+                <marker date="1466128900610" expanded="true" signature="281:1610" placeholder="..." />
+                <marker date="1466128900610" expanded="true" signature="751:1610" placeholder="..." />
+                <marker date="1466128900610" expanded="true" signature="169394:169628" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,22 +85,10 @@
       <file leaf-file-name="AppKernel.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.269231" vertical-offset="4" max-vertical-offset="969">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state vertical-scroll-proportion="-14.230769" vertical-offset="4" max-vertical-offset="1037">
+              <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
               <folding>
                 <element signature="e#7#47#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/User.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="544">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-              <folding>
-                <element signature="e#69#111#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -191,8 +97,8 @@
       <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="729" max-vertical-offset="1343">
-              <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+            <state vertical-scroll-proportion="-22.142857" vertical-offset="1284" max-vertical-offset="2023">
+              <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -251,13 +157,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/AppKernel.php" />
         <option value="$PROJECT_DIR$/src/AppBundle/Entity/User.php" />
         <option value="$PROJECT_DIR$/app/config/security.yml" />
         <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/app/config/parameters.yml" />
-        <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
       </list>
     </option>
   </component>
@@ -464,6 +370,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cliniquecoderre" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cliniquecoderre" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -503,15 +427,22 @@
       <option name="number" value="Default" />
       <updated>1465954499929</updated>
     </task>
+    <task id="LOCAL-00001" summary="- Commit from LTrem-PC to Git">
+      <created>1466127834181</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1466127834181</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985386" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -580,14 +511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.038462" vertical-offset="238" max-vertical-offset="1224">
-          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -612,16 +535,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="614">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.269231" vertical-offset="4" max-vertical-offset="969">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <element signature="e#7#47#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -667,26 +580,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="729" max-vertical-offset="1343">
-          <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.4" vertical-offset="0" max-vertical-offset="187">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="739">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -701,8 +598,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3327787" vertical-offset="786" max-vertical-offset="52666">
-          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="803" max-vertical-offset="56134">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding>
+            <marker date="1466128900610" expanded="true" signature="266:182670" placeholder="..." />
+            <marker date="1466128900610" expanded="true" signature="281:1610" placeholder="..." />
+            <marker date="1466128900610" expanded="true" signature="751:1610" placeholder="..." />
+            <marker date="1466128900610" expanded="true" signature="169394:169628" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.230769" vertical-offset="4" max-vertical-offset="1037">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+          <folding>
+            <element signature="e#7#47#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="323">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.142857" vertical-offset="1284" max-vertical-offset="2023">
+          <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23129252" vertical-offset="255" max-vertical-offset="1241">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
           <folding />
         </state>
       </provider>
